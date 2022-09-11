@@ -1,4 +1,4 @@
-package arraydemo;
+package araydemo;
 
 public class Restaurant {
     private String restuarnatName;

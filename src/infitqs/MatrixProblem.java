@@ -1,5 +1,5 @@
-package infitq;
 
+package infiTq;
 import java.util.ArrayList;
 
 public class MatrixProblem {
