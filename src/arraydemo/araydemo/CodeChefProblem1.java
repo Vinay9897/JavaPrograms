@@ -9,7 +9,7 @@ public class CodeChefProblem1 {
 		int t = sc.nextInt();
 		while (t > 0) {
 			int n = sc.nextInt();
-			String s = sc.next();
+			String s = sc.nextLine();
 			String s2 = s.substring(n / 2, n);
 			if (s.substring(0, n / 2).equals(s2))
 				System.out.println("Yes");
